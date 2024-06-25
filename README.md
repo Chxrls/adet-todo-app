@@ -26,7 +26,7 @@ Intialize the environment
 python -m venv venv
 venv\Script\activate
 ```
-Install the required packages/dependencies
+Install the required packages
 ```
 pip install -r requirements.txt
 ```
