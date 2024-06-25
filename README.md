@@ -8,7 +8,7 @@
  4. Kim Orencia
 
 ## Sample Screenshot
-![image](todo.png)  
+![image](todo.PNG)  
  
  
 ### Installation for Windows
