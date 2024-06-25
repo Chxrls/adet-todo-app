@@ -1,4 +1,4 @@
-### TODO CRUD APP IN PYTHON FLASK
+## TODO CRUD APP IN PYTHON FLASK
  
 ## PROJECT MEMBERS
 
@@ -26,7 +26,7 @@ Intialize the environment
 python -m venv venv
 venv\Script\activate
 ```
-Install the requirements
+Install the required packages/dependencies
 ```
 pip install -r requirements.txt
 ```
