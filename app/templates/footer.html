@@ -1,0 +1,21 @@
+<div class="container">
+    <h5>Current Tasks</h5>
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for entry in entries %}
+            <tr>
+                <td>{{ entry.title }}</td>
+                <td>{{ entry.description }}</td>
+                <td>{{ 'Done' if entry.status else 'On Going' }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
