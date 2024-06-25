@@ -13,6 +13,14 @@
  
 ### Installation for Windows
 
+***Prequisites***
+ - Make sure to have python installed
+ - Make sure pip is configured
+
+ ***Optional***
+ - SQlite DB Browser (for viewing the tables)
+
+
 Clone the project
 ```
 git clone https://github.com/Chxrls/adet-todo-app.git
