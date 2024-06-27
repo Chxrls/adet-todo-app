@@ -27,7 +27,7 @@ git clone https://github.com/Chxrls/adet-todo-app.git
 ```
 Navigate to the repo
 ```
-cd adet-proj/
+cd project_folder_name
 ```
 Intialize the environment
 ```
